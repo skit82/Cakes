@@ -1,8 +1,9 @@
 body {
   margin: 0px;
   padding: 0px;
-  font-family: "Circe Regular", "Arial", sans-serif;
-  background-color: #fbebea;
+  font-family: $font-family;
+  font-size: $font-size;
+  background-color: $color-main;
 }
 
 a {
